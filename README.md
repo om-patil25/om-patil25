@@ -12,7 +12,7 @@ A full-stack platform for building a personal web presence.
 
 **React · Node.js · Express.js · PostgreSQL**
 
-[Live Project](https://thrshld.in/) · [Repository](https://github.com/ompatil25/threshold)
+[Live Project](https://thrshld.in/) · [Repository](https://github.com/ompatil25/Threshold)
 
 ## Other Projects
 
